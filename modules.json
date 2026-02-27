@@ -1,0 +1,13 @@
+[
+  {
+    "pkgName": "com.example.mymodule",
+    "name": "My Test Module",
+    "description": "First module for my LSPatch repo",
+    "versionName": "1.0",
+    "versionCode": 1,
+    "author": "mdhhraj",
+    "downloadUrl": "https://github.com/mdhhraj/lspatch-repo/releases/download/v1.0/MyModule-1.0.apk",
+    "sourceRepo": "https://github.com/mdhhraj/lspatch-repo",
+    "lastUpdated": 1740650000
+  }
+]
